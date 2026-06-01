@@ -303,7 +303,7 @@ Import the endpoints into Postman. Ensure you attach the JWT token in the `Autho
 **Priyanshu Singh**  
 Backend Developer / Full Stack Engineer  
 - GitHub: [PriyanshuSingh10114](https://github.com/PriyanshuSingh10114)
-- LinkedIn: [Your LinkedIn Profile URL](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Priyanshusingh10114](linkedin.com/in/priyanshusingh10114)
 
 ---
 
